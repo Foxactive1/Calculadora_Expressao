@@ -13,6 +13,8 @@ Uma calculadora web simples e responsiva desenvolvida com **HTML5**, **Bootstrap
 
 (a)^2 - ( - (b^2) ) = resultado
 
+https://calculadora-expressao.vercel.app/
+
 ## Tecnologias Utilizadas
 
 - HTML5 semântico
